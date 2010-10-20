@@ -19,6 +19,10 @@
         {
             "quote": "That code should be thrown on the floor, set on fire, and jumped up and down on!",
             "by": "Bornstein"
-        } 
+        },
+        { 
+            "quote": "I often quote myself. It adds spice to my conversation.",
+            "by": "George Bernard Shaw"
+        }
     ]
 }
